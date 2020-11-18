@@ -1,0 +1,50 @@
+H1{
+  text-align: center;
+  font-style: oblique;
+
+}
+H2{
+  text-align: center;
+
+
+}
+P{
+  text-align: center;
+}
+
+.center{display:block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
+}
+
+
+
+.im{display: block;
+float:left;}
+
+.img{display: block;
+float:right;;}
+
+.midt{display: inline;
+
+top: 1250px
+left: 250px}
+
+}
+.background {
+  background-color: black;
+  background-size: cover;
+}
+
+
+.topnav li{
+overflow: hidden;
+background-color: grey;
+color: white;
+display: inline;
+position: ;
+padding: 50px
+
+
+}
